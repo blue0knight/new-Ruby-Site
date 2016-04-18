@@ -1,0 +1,11 @@
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>My new Website</title>
+    </head>
+    <body>
+      <center><h1>Hello World</h1></center>
+      <img src="http://www.shutterstock.com/s/cool/search.html">cool image</img>
+    </body>
+  </html>
